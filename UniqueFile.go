@@ -11,7 +11,7 @@ func main() {
 	app.Name = "UniqueFile"
 	app.Version = Version
 	app.Usage = ""
-	app.Author = "Masa Jobara"
+	app.Author = "wolfmasa"
 	app.Email = "wolf.masa@gmail.com"
 	app.Commands = Commands
 
