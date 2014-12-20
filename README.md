@@ -2,20 +2,22 @@ UniqueFile
 ====
 
 ## Description
+Check File Diff and Delete same file in dir tree.
 
 ## Usage
+UniqueFile check <path>
 
 ## Install
 
 To install, use `go get`:
 
 ```bash
-$ go get -d github.com/Masa Jobara/UniqueFile
+$ go get -d github.com/wolfmasa/UniqueFile
 ```
 
 ## Contribution
 
-1. Fork ([https://github.com/Masa Jobara/UniqueFile/fork](https://github.com/Masa Jobara/UniqueFile/fork))
+1. Fork ([https://github.com/wolfmasa/UniqueFile/fork](https://github.com/wolfmasa/UniqueFile/fork))
 1. Create a feature branch
 1. Commit your changes
 1. Rebase your local changes against the master branch
@@ -25,4 +27,4 @@ $ go get -d github.com/Masa Jobara/UniqueFile
 
 ## Author
 
-[Masa Jobara](https://github.com/Masa Jobara)
+[wolfmasa](https://github.com/wolfmasa)
